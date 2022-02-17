@@ -1,0 +1,52 @@
+{
+    "inventory": [
+        {
+            "dealerGroupName": "CDK Dealer Group",
+            "dealerships": [
+                {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "name": "Chicago Chevy",
+                    "inventory": {
+                        "cars": [
+                            {
+                                "make": "Chevy",
+                                "model": "Nova",
+                                "color": "green",
+                                "year": "2020",
+                                "price": 3000,
+                                "financingAvailable": true
+                            },
+                            {
+                                "make": "Chevy",
+                                "model": "Camaro Z28",
+                                "color": "Black",
+                                "year": "1979",
+                                "price": 1500,
+                                "financingAvailable": true
+                            }
+                        ],
+                        "trucks": [
+                            {
+                                "make": "Chevy",
+                                "model": "Silverado",
+                                "color": "black",
+                                "year": "2018",
+                                "price": 30000,
+                                "financingAvailable": true
+                            },
+                            {
+                                "make": "Chevy",
+                                "model": "Canyon",
+                                "color": "yellow",
+                                "year": "2020",
+                                "price": 100000,
+                                "financingAvailable": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
